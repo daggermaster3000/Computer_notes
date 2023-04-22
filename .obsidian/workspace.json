@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "afbd08b22e6158f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a56e5679c2a4bd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "275a61456993f2de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "635b4aea2a6ea994",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5aaa4def689a342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123c5c1dc6a17ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2cbecd071ba1cb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "562efeae54ca8704",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c22818a4a880407a",
+    "type": "split",
+    "children": [
+      {
+        "id": "17517a6dbdba08c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa1339c27cf1169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32cc461af1ea0850",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3ab6e35439d2d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "931c1cb022d9ca88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOC.md"
+              }
+            }
+          },
+          {
+            "id": "83c416e20f4779bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "275a61456993f2de",
+  "lastOpenFiles": [
+    "TOC.md",
+    "Digital signal processing/Fourier transform.md",
+    "Digital signal processing/Signal processing TOC.md",
+    "Comp architecture/Computer Architecture.md",
+    "Logical circuits/Logical circuits.md",
+    "Logical circuits/Counters and Dividers.md",
+    "Comp architecture/Von Neumann.md",
+    "fixed program computers.md",
+    "Comp architecture/Digital calculator structure.md",
+    "Logical circuits/Master-Slave JK Flip-Flop.md"
+  ]
+}

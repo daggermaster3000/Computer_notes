@@ -1,0 +1,10 @@
+![[Pasted image 20221130112056.png]]
+he **Harvard architecture** is a [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture "Computer architecture") with separate [storage](https://en.wikipedia.org/wiki/Computer_storage "Computer storage") and signal pathways for [instructions](https://en.wikipedia.org/wiki/Machine_code "Machine code") and [data](https://en.wikipedia.org/wiki/Data "Data"). It contrasts with the [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture "Von Neumann architecture"), where program instructions and data share the same memory and pathways
+
+### Contrast with von Neumann architectures
+
+Main article: [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture "Von Neumann architecture")
+
+In a system with a pure [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture "Von Neumann architecture"), instructions and data are stored in the same memory, so instructions are fetched over the same data path used to fetch data. This means that a [CPU](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") cannot simultaneously read an instruction and read or write data from or to the memory. In a computer using the Harvard architecture, the CPU can both read an instruction and perform a data memory access at the same time,[[2]](https://en.wikipedia.org/wiki/Harvard_architecture#cite_note-ddj1-2) even without a [[cache]]. A Harvard architecture computer can thus be faster for a given circuit complexity because [instruction fetches](https://en.wikipedia.org/wiki/Instruction_fetch "Instruction fetch") and data access do not contend for a single memory pathway.
+
+Also, a Harvard architecture machine has distinct code and data address spaces: instruction address zero is not the same as data address zero. Instruction address zero might identify a twenty-four-bit value, while data address zero might indicate an eight-bit byte that is not part of that twenty-four-bit value.
