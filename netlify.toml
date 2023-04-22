@@ -10,14 +10,14 @@ LANDING_DESCRIPTION = "I know nothing."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "logical-circuits/logical-circuits/"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Computer assisted experimentation notes"
+LANDING_TITLE = "Computer assisted experimentation notes 🖥️"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/daggermaster3000/Computer_notes"
 # (Optional) Site title in navbar
-SITE_TITLE = "Computer assisted experimentation notes"
+SITE_TITLE = "Computer assisted experimentation notes 🖥️"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = ""
+SITE_TITLE_TAB = "🖥️"
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://qscompnotes.netlify.app/"
 # (Optional) Site Timezone
