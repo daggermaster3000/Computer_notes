@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "84a5e6f43a01209c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logical circuits/Adders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOC.md",
+                "file": "Logical circuits/Adders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOC.md",
+                "file": "Logical circuits/Adders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOC.md"
+                "file": "Logical circuits/Adders.md"
               }
             }
           },
@@ -158,17 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "275a61456993f2de",
+  "active": "84a5e6f43a01209c",
   "lastOpenFiles": [
-    "netlify.toml",
+    "fixed program computers.md",
+    "GAN.md",
+    "LAN.md",
+    "overflow.md",
+    "WAN.md",
     "TOC.md",
+    "netlify.toml",
     "Digital signal processing/Fourier transform.md",
     "Digital signal processing/Signal processing TOC.md",
     "Comp architecture/Computer Architecture.md",
     "Logical circuits/Logical circuits.md",
     "Logical circuits/Counters and Dividers.md",
     "Comp architecture/Von Neumann.md",
-    "fixed program computers.md",
     "Comp architecture/Digital calculator structure.md",
     "Logical circuits/Master-Slave JK Flip-Flop.md"
   ]
